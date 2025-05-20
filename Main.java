@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 public class Main {
-    public static void main() {
+    public static void main(String[] Args) {
 
         // Initialize
         double result = 0;
